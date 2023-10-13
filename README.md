@@ -1,2 +1,2 @@
-# Mini-Projet
+# Mini-Project
 Mini Project
